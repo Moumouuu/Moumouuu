@@ -52,7 +52,6 @@
 ## Top Open Source -
 [![Bookeazy](https://github-readme-stats.vercel.app/api/pin/?username=Moumouuu&repo=book-easy&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Moumouuu/book-easy)
 [![Edu-Fiche](https://github-readme-stats.vercel.app/api/pin/?username=Moumouuu&repo=edu-fiche&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Moumouuu/edu-fiche)
-[![Co-Notes](https://github-readme-stats.vercel.app/api/pin/?username=Moumouuu&repo=co-notes&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Moumouuu/co-notes)
 
 <p align="left">
   <a href="https://github.com/Moumouuu?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
